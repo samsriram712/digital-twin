@@ -1,0 +1,20 @@
+{
+    "full_name": "Sam Sriram",
+    "name": "Sam",
+    "current_role": "Solution Architect",
+    "location": "Sydney, Australia",
+    "email": "sam.sriram@example.com",
+    "linkedin": "linkedin.com/in/samsriram",
+    "specialties": [
+      "Technology Consulting",
+      "Architecture",
+      "Project Delivery"
+    ],
+    "years_experience": 20,
+    "education": [
+      {
+        "degree": "Bachelor of Engineering",
+        "institution": "University of Mumbai"
+      }
+    ]
+  }
